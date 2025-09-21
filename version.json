@@ -1,6 +1,7 @@
 {
-  "version": "3.7",
-  "url": "https://github.com/WaniX666/XFlasherTool/releases/download/3.7/XFlasherTool3.7.zip",
-  "changelog": "- Лог бокс теперь справа, а окно расширено\n- Функция Partition Analyze(getvar all)\n"
+  "version": "4.0",
+  "url": "https://github.com/WaniX666/XFlasherTool/releases/download/v4/XFlasherToolV4.zip",
+  "changelog": "- Кнопка Send feedback с отправкой в тг бота"
 }
+
 
