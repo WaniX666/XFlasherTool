@@ -1,5 +1,5 @@
 {
-  "version": "3.5",
-  "url": "https://github.com/WaniX666/XFlasherTool/releases/download/3.5/XFlasherTool3.5.zip",
-  "changelog": "- Улучшена стабильность\n- Исправлено зависание при adb sideload\n- Добавлена функция Flash DTBO для прошивок типа: Color OS, где нужно прошить boot, vendor_boot, dtbo\n- Кнопка проверки обновлений теперь вызывает Updater, а не пытается обнаружить обновление сама, благодаря чему не будет ошибки 404"
-}
+  "version": "3.7",
+  "url": "https://github.com/WaniX666/XFlasherTool/releases/download/3.7/XFlasherTool3.7.zip",
+  "changelog": "- Лог бокс теперь справа, а окно расширено\n- Функция Partition Analyze(getvar all)\n"
+
